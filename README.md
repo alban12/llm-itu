@@ -6,6 +6,8 @@ This is the repository for the LLM ITU competition on Zindi.
 
 ## RAG 
 
+## Evaluation 
+
 ## Installation 
 
 ## Licence 
